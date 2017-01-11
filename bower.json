@@ -1,0 +1,25 @@
+{
+  "name": "angular-spinner",
+  "homepage": "https://github.com/nncl/angular-spinner",
+  "authors": [
+    "= <nncl@live.com>"
+  ],
+  "description": "Angular Spinner for loading moments",
+  "main": "angular-spinner.js",
+  "keywords": [
+    "angular",
+    "spinner"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.8"
+  }
+}

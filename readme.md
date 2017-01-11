@@ -4,16 +4,10 @@ Angular Spinner for loading moments.
 
 ## Getting Started
 
-Install via bower:
+Installing via bower:
 
 ```
 $ bower install angular-spinner --save
-```
-
-Install via npm:
-
-```
-$ npm install angular-spinner --save
 ```
 
 ### Adding to your app
