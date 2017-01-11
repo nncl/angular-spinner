@@ -7,7 +7,7 @@ Angular Spinner for loading moments.
 Installing via bower:
 
 ```
-$ bower install angular-spinner --save
+$ bower install ca-angular-spinner --save
 ```
 
 ### Adding to your app
