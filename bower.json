@@ -1,5 +1,6 @@
 {
   "name": "angular-spinner",
+  "version" : "1.0.0",
   "homepage": "https://github.com/nncl/angular-spinner",
   "authors": [
     "= <nncl@live.com>"
